@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/task_3.dir/task_3.c.o  -o task_3.exe -Wl,--out-implib,libtask_3.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
