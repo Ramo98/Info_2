@@ -1,7 +1,6 @@
 //
 // Created by ramon on 2/28/2019.
 // Recursive C program that creates a pyramid of '*'
-
 #include <stdio.h>
 
 int triangle(int n, int d){
@@ -23,5 +22,5 @@ int triangle(int n, int d){
 
 
 int main(){
-    triangle(6,1);
+    triangle(6,1);  
 }
