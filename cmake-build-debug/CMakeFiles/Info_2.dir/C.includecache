@@ -6,11 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/cygdrive/c/Users/ramon/CLionProjects/Info_2/task_2.c
-memory.h
+C:/Users/ramon/CLionProjects/Info_2/Ex_2/ex.c
+SDL2/SDL.h
 -
 stdio.h
--
-stdbool.h
 -
 

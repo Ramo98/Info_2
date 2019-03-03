@@ -1,9 +1,6 @@
-/cygdrive/c/Users/ramon/CLionProjects/Info_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/cygdrive/c/Users/ramon/CLionProjects/Info_2/cmake-build-debug/CMakeFiles/test.dir
-/cygdrive/c/Users/ramon/CLionProjects/Info_2/cmake-build-debug/CMakeFiles/edit_cache.dir
-/cygdrive/c/Users/ramon/CLionProjects/Info_2/cmake-build-debug/CMakeFiles/task_1.dir
-/cygdrive/c/Users/ramon/CLionProjects/Info_2/cmake-build-debug/CMakeFiles/task_3.dir
-/cygdrive/c/Users/ramon/CLionProjects/Info_2/cmake-build-debug/CMakeFiles/Info_2.dir
-/cygdrive/c/Users/ramon/CLionProjects/Info_2/cmake-build-debug/CMakeFiles/task_2.dir
-/cygdrive/c/Users/ramon/CLionProjects/Info_2/cmake-build-debug/CMakeFiles/task_5.dir
-/cygdrive/c/Users/ramon/CLionProjects/Info_2/cmake-build-debug/CMakeFiles/task_4.dir
+C:/Users/ramon/CLionProjects/Info_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ramon/CLionProjects/Info_2/cmake-build-debug/CMakeFiles/task_1.dir
+C:/Users/ramon/CLionProjects/Info_2/cmake-build-debug/CMakeFiles/task_2.dir
+C:/Users/ramon/CLionProjects/Info_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/ramon/CLionProjects/Info_2/cmake-build-debug/CMakeFiles/task_3_part1.dir
+C:/Users/ramon/CLionProjects/Info_2/cmake-build-debug/CMakeFiles/task3.dir

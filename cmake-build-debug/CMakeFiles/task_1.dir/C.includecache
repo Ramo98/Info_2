@@ -6,9 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/cygdrive/c/Users/ramon/CLionProjects/Info_2/task_1.c
-memory.h
--
+C:/Users/ramon/CLionProjects/Info_2/Ex_2/task_1.c
 stdio.h
 -
 

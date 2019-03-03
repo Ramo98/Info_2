@@ -9,10 +9,10 @@ bool is_Perfect_Square(int x){
 
 bool fib(int n){
     if(is_Perfect_Square(5 * n * n + 4) || is_Perfect_Square(5 * n * n - 4)){
-        printf("%d is a fib\n", n);
+        printf("%d is a fibonacci number\n", n);
         return true;
     } else {
-        printf("%d is not a fib\n", n);
+        printf("%d is not a fibonacci number\n", n);
 
         return false;
     }

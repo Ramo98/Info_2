@@ -1,4 +1,4 @@
-C:\Users\ramon\.CLion2018.3\system\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /cygdrive/c/Users/ramon/CLionProjects/Info_2
+C:\Users\ramon\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\183.5153.40\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\ramon\CLionProjects\Info_2
 -- Configuring done
 -- Generating done
--- Build files have been written to: /cygdrive/c/Users/ramon/CLionProjects/Info_2/cmake-build-debug
+-- Build files have been written to: C:/Users/ramon/CLionProjects/Info_2/cmake-build-debug

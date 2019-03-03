@@ -1,7 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Info_2.dir/task_2.c.o"
+  "CMakeFiles/Info_2.dir/Ex_2/ex.c.obj"
   "Info_2.pdb"
   "Info_2.exe"
+  "Info_2.exe.manifest"
   "libInfo_2.dll.a"
 )
 

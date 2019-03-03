@@ -2,22 +2,6 @@
 #include <stdio.h>
 #include <stdbool.h>
 
-//bool check(char array[], int x, int y, int len){
-//    bool bol;
-//    for(int i = 0; i < len; i++){
-//        for(int j = 0; j < len; j++){
-//            if(x == array[i]){
-//                bol = false;
-//            }
-//        }
-//    }
-//    for(int i = 0; i < len; i++){
-//        if(y == array[i]){
-//            bol = false;
-//        }
-//    }
-//    return bol;
-//}
 
 void xy() {
     int digit, x, y, len;
