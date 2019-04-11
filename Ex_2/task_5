@@ -1,0 +1,21 @@
+/* What is the output of the following program and what does the
+function fun() do?
+*/
+
+#include<stdio.h>
+
+int fun(int n){
+  if(n <= 100){
+    return fun(fun(n+11));
+  } else {
+    return n - 10;
+  }
+  
+  int main(){
+    printf("%d\n", fun(89));
+    return 0;
+  }
+  
+  
+  /* The output of fun(89) is 91. The function fun() calls itself twice in a nested recursion. 
+  */
